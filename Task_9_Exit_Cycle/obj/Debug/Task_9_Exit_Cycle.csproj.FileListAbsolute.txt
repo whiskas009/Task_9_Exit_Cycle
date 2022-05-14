@@ -1,0 +1,8 @@
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_9_Exit_Cycle\Task_9_Exit_Cycle\bin\Debug\Task_9_Exit_Cycle.exe.config
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_9_Exit_Cycle\Task_9_Exit_Cycle\bin\Debug\Task_9_Exit_Cycle.exe
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_9_Exit_Cycle\Task_9_Exit_Cycle\bin\Debug\Task_9_Exit_Cycle.pdb
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_9_Exit_Cycle\Task_9_Exit_Cycle\obj\Debug\Task_9_Exit_Cycle.csproj.AssemblyReference.cache
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_9_Exit_Cycle\Task_9_Exit_Cycle\obj\Debug\Task_9_Exit_Cycle.csproj.SuggestedBindingRedirects.cache
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_9_Exit_Cycle\Task_9_Exit_Cycle\obj\Debug\Task_9_Exit_Cycle.csproj.CoreCompileInputs.cache
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_9_Exit_Cycle\Task_9_Exit_Cycle\obj\Debug\Task_9_Exit_Cycle.exe
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_9_Exit_Cycle\Task_9_Exit_Cycle\obj\Debug\Task_9_Exit_Cycle.pdb
