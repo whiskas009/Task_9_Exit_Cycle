@@ -10,12 +10,13 @@ namespace Task_9_Exit_Cycle
     {
         static void Main(string[] args)
         {
-           Console.WriteLine("Введите слово для выхода");
-           string word = Console.ReadLine();
+            Console.WriteLine("Введите слово для выхода");
+            string word = Console.ReadLine();
 
-           for (;word != "exit"; word = Console.ReadLine())
+            while (word != "exit")
             {
                 Console.WriteLine("Подумайте ещё");
+                word = Console.ReadLine();
             }
         }
     }
